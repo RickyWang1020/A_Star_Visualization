@@ -1,4 +1,4 @@
-# A_Star_Visualization
+# About this program
 This is a small program written using Python (Pygame) that can visualize the process of A* shortest-path finding.
 This program can run on MacOS.
 # How to play
