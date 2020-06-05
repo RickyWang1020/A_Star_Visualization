@@ -5,4 +5,4 @@ This program can run on MacOS.
 1. Point Initialization: Left mouse button - initialize the starting point; Right mouse button - initialize the ending point; Middle mouse button - initialize the obstacles (walls).
 2. Press Enter or Spacebar to start the pathfinding algorithm.
 3. When one execution is over, press Enter or Spacebar to re-start the program.
-4. Click on the cross on upper-left corner or press Esc to exit the program.
+4. Click on the cross on upper-left corner (for MacOS devices) or press Esc to exit the program.
