@@ -3,9 +3,13 @@
 ## About this program
 This is a small program written using Python (Pygame) that can visualize the process of A* shortest-path finding.
 
-This program is developed on a MacOS device and can run on MacOS devices equipped with Python and Pygame, but has not yet been tested on a Windows device.
+This program is developed on a MacOS device and can run on MacOS devices, but has not yet been tested on a Windows device.
 
 The shortest path gained by A* algorithm will be shown on the PyGame window, and the shortest path length will be shown in the Python Kernel.
+
+## Requirements
+- Python
+- Pygame
 
 ## How to play
 1. Point Initializations:
